@@ -1,0 +1,6 @@
+[submodule "API"]
+	path = API
+	url = C:/Program Files/Git/API
+[submodule "WEB"]
+	path = WEB
+	url = C:/Program Files/Git/WEB
